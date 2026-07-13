@@ -3,6 +3,9 @@
 ## Dataset
 Medical Appointment No Shows
 
+## Objective
+Clean and preprocess the Medical Appointment No Shows dataset.
+
 ## Tools Used
 - Microsoft Excel
 
